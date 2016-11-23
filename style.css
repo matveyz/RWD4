@@ -77,9 +77,9 @@ table {
 }
 
 .pink {
-	background: pink;
-	height: 150px;
-	margin: 15px 15px;
+	 margin-top: 20px;
+     background: pink;
+     height: 150px;
 }
 
 /*FOR DESKTOPS*/
@@ -158,11 +158,6 @@ table {
 		background: yellow;
 		height: 250px;
 		margin: 5px 15px 15px 15px;
-	}
-	.pink { 
-		height: 150px;
-		background: pink;
-		margin: 5px 15px;
 	}
 }
 
