@@ -160,6 +160,7 @@ table {
 		margin: 5px 15px 15px 15px;
 	}
 	.pink { 
+		height: 150px;
 		background: pink;
 		margin: 20px -20px 0px 20px;
 	}
