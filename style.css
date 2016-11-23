@@ -77,9 +77,9 @@ table {
 }
 
 .pink {
-	 margin-top: 20px;
      background: pink;
      height: 150px;
+     margin: 5px 15px -15px 15px;
 }
 
 /*FOR DESKTOPS*/
@@ -87,7 +87,7 @@ table {
 		.blue {
 	background: #31e0f7;
 	height: 110px;
-	margin: 20px 0px 0px 0px;	
+	margin: 20px -10px 0px 0px;	
 }
 
 		.orange {
